@@ -8,7 +8,7 @@ This QR Code component includes a responsive and well styled card with QR Code i
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
