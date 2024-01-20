@@ -1,0 +1,14 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "A QR simple code component",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Turner",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}

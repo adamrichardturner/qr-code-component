@@ -1,2 +1,22 @@
-# qr-code-component
-Frontend Mentor challenge to develop a simple QR Code
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
+## Overview
+
+This QR Code component includes a responsive and well styled card with QR Code image and copy, made with semantic HTML and Tailwind CSS.
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+### Links
+
+- Live Site URL: [https://qr-code.adamrichardturner.dev/](https://qr-code.adamrichardturner.dev/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- [Tailwind CSS](https://tailwindcss.com/)
