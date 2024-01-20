@@ -14,8 +14,6 @@ This QR Code component includes a responsive and well styled card with QR Code i
 
 - Live Site URL: [https://qr-code.adamrichardturner.dev/](https://qr-code.adamrichardturner.dev/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
